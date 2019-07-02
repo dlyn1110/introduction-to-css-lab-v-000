@@ -7,6 +7,7 @@ body {
 div {
   width: 700px;
   margin: auto;
+  font-family: Helvetica Neue;
 }
 
 
@@ -15,7 +16,7 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
-  font-family: Helvetica Neue;
+
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
